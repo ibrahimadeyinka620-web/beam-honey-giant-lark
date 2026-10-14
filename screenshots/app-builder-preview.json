@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Oja — campus market",
+      "hasCanvas": false,
+      "bodyTextLen": 1796,
+      "bodyTextHash": "d9c4b1ef66577dd24d95c4bf2ab9fe5d06e1acbe22c13f01823bc6fbe69bd2d3",
+      "bodyTextPrefix": "Oja Creek Campus · How it works Adaeze Okonkwo · New Hostel ₦48,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Oja — campus market",
+      "hasCanvas": false,
+      "bodyTextLen": 1806,
+      "bodyTextHash": "84bcb3fc7d46ad0a4d06ec0cbf084b55699fb92f347ea37ac99c32f4b52e6b64",
+      "bodyTextPrefix": "Oja Creek Campus · How it works Adaeze Okonkwo · New Hostel ₦48,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
